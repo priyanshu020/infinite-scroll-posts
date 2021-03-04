@@ -12,3 +12,4 @@ The purpose of this project is that when you hit a certain point in your scroll 
 
 ## Deployment
 
+https://infinite-scroll-posts.netlify.app/
